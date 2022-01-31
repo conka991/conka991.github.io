@@ -1,5 +1,12 @@
+################################
+# Site Settings
+################################
+lang        : "es"
+logo        : https://avatars.githubusercontent.com/u/11543428?v=4
+title       : Kristian RC
+description : Ingeniero de software freelancer
+author      : Kristian Roa C
+email       : kon.991@gmail.com
+date_format : "%-d %b %Y"
 remote_theme: pages-themes/minimal@v0.2.0
 theme: jekyll-theme-minimal
-title: Kristian RC
-description: Ingeniero de software freelancer
-logo: https://avatars.githubusercontent.com/u/11543428?v=4
