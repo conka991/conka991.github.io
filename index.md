@@ -8,7 +8,7 @@ Bienvenid@ a mi página de GitHub 🐈‍⬛ me llamo **Kristian Roa** y es un p
 
 Soy un 👨‍💻 ingeniero de software freelancer chileno con 30 años de edad, muy nerd por cierto, cuyos pilares de trabajo son: humildad, honestidad, perseverancia, proactividad y perfeccionismo. Me especializo en el desarrollo de apps web con fines como: multimedios, educativos y de utilería personal o empresarial.
 
-Cuento también con habilidades para el desarollo de apps móviles y de escritorio o standalone gracias a que gran parte de mi trabajo se realiza con un lenguaje de programación multi plataforma llamado Javascript 🧙♂️.
+Cuento también con habilidades para el desarollo de apps móviles y de escritorio o standalone gracias a que gran parte de mi trabajo se realiza con un lenguaje de programación multi plataforma llamado [Javascript 🧙♂️](https://javascript.com).
 
 Confundador de la startup VitrinaChile, en la cual me estoy enormemente feliz gracias a que me siento partícipe de una cruzada donde estamos confeccionando un servicio tecnológico desarollado en la región del BíoBio con un equipo de trabajo 100% chileno.
 
@@ -56,15 +56,15 @@ Ajustes extras o adición de nuevas funcionalidades despues del período de post
 
 ## 📨 Email
 
-Mi correo electronico es: kon.991@gmail.com
+Mi correo electronico es: **kon.991@gmail.com**
 
 
 ## 👀 Redes Sociales
 
-- 📷 Instagram: https://instagram.com/conka991
-- 🕊️ Twitter: https://twitter.com/conka991
-- 👔 LinkedIn: https://www.linkedin.com/in/kristianroa/
+- [📷 Instagram](https://instagram.com/conka991)
+- [🕊️ Twitter](https://twitter.com/conka991)
+- [👔 LinkedIn](https://www.linkedin.com/in/kristianroa/)
 
 ## 📂 Proyectos
 
-Si quieres conocer acerca de mis proyectos, te invito a visitar: https://kristian-roa.cl/projects
+Si quieres conocer acerca de mis proyectos, te invito a visitar: [proyectos publicados](https://kristian-roa.cl/projects)
